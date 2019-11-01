@@ -1,0 +1,2 @@
+# newtes
+public file pertama
